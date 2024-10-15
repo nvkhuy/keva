@@ -1,0 +1,32 @@
+[
+  {
+    "key": "w:00001",
+    "value": {
+      "gold": 12,
+      "coin": 50,
+      "collectibles": {
+        "gun": 5,
+        "powder": 5,
+        "diamond": {
+          "yellow": 7,
+          "red": 35
+        }
+      }
+    }
+  },
+  {
+    "key": "d:00001",
+    "value": {
+      "gold": 72,
+      "coin": 450,
+      "collectibles": {
+        "gun": 5,
+        "powder": 5,
+        "diamond": {
+          "yellow": 7,
+          "red": 35
+        }
+      }
+    }
+  }
+]

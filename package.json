@@ -1,0 +1,20 @@
+{
+  "name": "kevastore",
+  "version": "1.0.0",
+  "description": "key value datastore",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node example.ts",
+    "dev": "npx tsc && node dist/example.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "@types/sqlite3": "^3.1.11",
+    "typescript": "^5.6.3"
+  }
+}
